@@ -1,0 +1,372 @@
+service_name:
+  - "Pitched Roofing"
+  - "Flat Roofing"
+  - "Siding"
+  - "Interior Paint"
+  - "Exterior Paint"
+  - "Carpentry"
+  - "Miscellaneous"
+
+#base_url : http://uheqav2.demo.aezion.com/pricebook/index
+#base_url : http://uheqav2.demo.aezion.com/
+base_url2 : http://uheph3qa.demo.aezion.com/
+
+base_url: http://uheph3qa.demo.aezion.com
+session_url: http://uheph3qa.demo.aezion.com/salesdashboard/index
+User_name: sivarama.krishna@aezion.com
+pass_password: Aezion@600
+user_password3: Msk@1238
+roof_search_info: May 1
+view_price_book: Price Book
+appointment_search: Mona
+uprice_product_miscellaneous_search: skylight
+uprice_import_miscellaneous_product: Lead Safe
+uprice_product_miscellaneous_color: Redd
+uprice_product_exterior_search: skylight
+uprice_import_exterior_product: Lead Safe
+uprice_product_exterior_color: Redd
+uprice_product_interior_search: skylight
+uprice_import_interior_product: Lead Safe
+uprice_product_interior_color: Redd
+uprice_product_flat_search: skylight
+uprice_import_flat_product: Lead Safe
+uprice_product_flat_color: Redd
+uprice_product_pitched_search: skylight
+uprice_import_pitched_product: Lead Safe
+uprice_product_pitched_color: Redd
+uprice_product_doors_search: skylight
+uprice_import_doors_product: Lead Safe
+uprice_product_doors_color: Redd
+uprice_product_carpentry_search: skylight
+uprice_import_carpentry_product: Lead Safe
+uprice_product_carpentry_color: Redd
+uprice_product_windows_search: skylight
+uprice_import_windows_product: Lead Safe
+uprice_product_windows_color: Redd
+uprice_product_siding_search: skylight
+uprice_import_siding_product: Lead Safe
+uprice_product_siding_color: Redd
+uprice_section_pitched_search: Options
+uprice_section_flat_search: Product Options
+uprice_section_windows_search: Installation Charges
+uprice_section_doors_search: Installation Charges
+uprice_section_siding_search: Options
+uprice_section_interior_search: Interior Paint Product
+uprice_section_exterior_search: Exterior Paint Product
+uprice_section_miscellaneous_search: Options
+uprice_section_carpentry_search: Gutters
+uprice_product_search: Crickets
+uprice_sub_section_pitched_search: Shingles - Asphalt
+uprice_sub_section_flat_search: Davis
+uprice_sub_section_doors_search: Unit Installation
+uprice_sub_section_windows_search: Additional Labor
+uprice_sub_section_siding_search: Siding Demo
+uprice_sub_section_interior_search: Paints
+uprice_sub_section_exterior_search: Deck Staining
+uprice_sub_section_carpentry_search: Demo
+uprice_sub_section_miscellaneous_search: Permits
+uprice_add_manufacturers: Grace
+uprice_add_brand: Other
+uprice_add_uom: Per Week
+uprice_add_color: Yellow
+uprice_import_color: Navi Blue Color
+uprice_add_graphical_hierarchy_districts: D1
+uprice_geographical_hierarchy: D1
+uprice_geographical_hierarchy_areas: Wareham
+uprice_geographical_hierarchy_zipcode: Portsmouth
+event_search: home show event
+view_price_book_phase3: New PB TEST
+roof_search_info_phase3 : Windoes PB
+flat_search_info_phase3 : PB - Testing for all services(Update Drivers)
+windows_search_info : Windoes PB
+door_search_info : PB - Testing
+exterior_search_info : PB - Testing
+interior_search_info : erio
+siding_search_info : Master PB-All Services
+carpentry_search_info : Master PB-All Services
+uquote_pitched_roofing_phase3: abbc1
+uquote_flat_roofing_phase3: test2
+uquote_products_windows_search: New
+uquote_product_doors_phase3: Storm Door
+uquote_product_siding_phase3: Labor
+uquote_product_carpentry_phase3: Add on
+uquote_product_interior_phase3: Color
+uquote_section_pr_phase3: new
+uquote_section_fr_phase3: Optional
+uquote_section_windows_phase3: General
+uquote_section_doors_search_phase3: General
+uquote_section_siding_phase3: Side
+uquote_section_interior_phase3: General
+uquote_section_exterior_phase3: General
+uquote_section_carpentry_phase3: General
+uquote_sub_section_pr_phase3: Generic
+uquote_sub_section_fr_phase3: Generic
+uquote_sub_section_windows_phase3: Generic
+uquote_sub_section_doors_phase3: Install
+uquote_sub_section_siding_phase3: Test100
+uquote_sub_section_ip_phase3: Generic
+uquote_sub_section_ep_phase3: Generic
+uquote_sub_section_carpentry_phase3: Demo
+uprice_product_search_phase3: Zinc Strips
+uprice_product_fr_search_phase3: Underlayment
+uprice_product_windows_search_phase3: Bay Window
+uprice_product_doors_search_phase3: Storm Door
+uprice_product_door_color: Blue
+uprice_product_siding_search_phase3: Vapor Barrier
+uprice_product_ip_search_phase3: Interior Primer
+uprice_product_ep_search_phase3: Re-Glaze Windows
+uprice_product_carpentry_search_phase3: Wood Strapping
+uprice_section_pr_search_phase3: Options
+uprice_section_fr_search_phase3: Installation
+uprice_section_windows_search_phase3: Installation Charges
+uprice_section_doors_search_phase3: Installation Charges
+uprice_section_siding_search_phase3: Options
+uprice_section_ip_search_phase3: Interior Paint Product
+uprice_section_ep_search_phase3: Decks
+uprice_section_carpentry_search_phase3: Siding
+uprice_sub_section_pr_search_phase3: Ventilation
+uprice_sub_section_fr_search_phase3: Ventilation
+uprice_sub_section_windows_search_phase3: Install Modification
+uprice_sub_section_doors_search_phase3: Unit Installation
+uprice_sub_section_siding_search_phase3: Insulation
+uprice_sub_section_ip_search_phase3: Paints
+uprice_sub_section_ep_search_phase3: Paint Work
+uprice_sub_section_carpentry_search_phase3: Sheathing
+uprice_manufacturers_search: Tando
+uprice_brand_search: Acosta Group
+uprice_search_color: Yellow
+uprice_ghd_search: D32
+uprice_gha_search: Nashua
+lead_source_short_search: Websites
+lead_source_long_search: Self gen
+others_promoter_search: eva
+product_range:
+  start: 0
+  end: 1
+variation_range:
+  start: 0
+  end: 1
+
+account_invoice_search_info: IN158175
+account_search: Urmas Ots
+account_from_date_search: 09/15/2025
+account_to_date_search: 10/30/2025
+account_first_name: Krishna
+account_last_name: Madarasu
+account_email_id: mskrishna.vtiger@gmail.com
+account_phone_number: 9036385347
+account_contacts_search: krishna
+account_appointment_search: test
+account_estimate_search: Windows
+account_job_search: Windows
+account_payment_search: Credit Card
+account_acitivity_search: Other
+job_search: New
+job_project_search: New
+lead_global_search: Leon Wallner
+opportunity_global_search: Leon Wallner
+account_global_search: Leon Wallner
+campaign_search: test
+marketing_lead_source: Canvassing
+marketing_opportunity_search: Canvassing
+sales_user_name: madarasu@yopmail.com
+sales_pass_password: Msk@1238
+marketing_manger_user: aravindmadarasu@yopmail.com
+marketing_manger_password: Aravind@1238
+wp_leave_balance_search: Leave Balance Of
+wp_specified_amount_search: Specified Amount
+wp_payout_full_cb_search: Pay out full commission balance
+withdrawal_preferences_search: Leave Balance Of
+
+
+usernamej: jyothi.bu@aezion.com
+passwordj: Aezionj@720
+
+marketing_head_username: HBeland@yopmail.com
+marketing_head_password: Aezion@720
+
+username: anitha.kn@aezion.com
+password: Aezion@720
+
+calc_page:
+  Type: "1"
+  typeef: "Not Leak Proof Roof"
+  AreasIncluded: "bsv"
+  AreasNotIncluded: "HAL"
+  Quantity: "1"
+  EdittedQuantity: "2"
+  CustomerNotes: "Customer note added in calc page"
+  EdittedCustomerNotes: "Editted Customer note added in calc page"
+  Adjustment1: "50"
+  Adjustment: "5"
+
+add_sketch:
+  IsPrintedOnCustomerPDF: true
+
+summary_page:
+  LineItemName: "Windows"
+  GrandTotalAmount: "100"
+  ApproxMonthyPay: "150"
+
+balance_statement_search: MVB Bonus
+quick_book_url: https://developer.intuit.com/workspaces
+
+exteriorpainting:
+  siding_side_count: 1
+  add_more_counts:
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 1   # Subsection 1
+        - count: 1   # Subsection 2
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1   # Subsection 14
+
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 2   # Subsection 1
+        - count: 2   # Subsection 2
+        - count: 2
+        - count: 2
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+
+
+
+interiorpainting:
+  siding_side_count: 1
+  add_more_counts:
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 1   # Subsection 1
+        - count: 1   # Subsection 2
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1   # Subsection 14
+
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 2   # Subsection 1
+        - count: 2   # Subsection 2
+        - count: 2
+        - count: 2
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+
+doors:
+#  num_photos_to_select: 4
+  siding_side_count: 1
+  add_more_counts:
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 1   # Subsection 1
+        - count: 1   # Subsection 2
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1   # Subsection 14
+
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 2   # Subsection 1
+        - count: 2   # Subsection 2
+        - count: 2
+        - count: 2
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+
+
+windows:
+#  num_photos_to_select: 4
+  siding_side_count: 1
+  add_more_counts:
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 1   # Subsection 1
+        - count: 1   # Subsection 2
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1   # Subsection 14
+
+    - subsections:
+        - count: 2   # Subsection 0
+        - count: 2   # Subsection 1
+        - count: 2   # Subsection 2
+        - count: 2
+        - count: 2
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 1
+        - count: 2
+        - count: 1
+        - count: 1
+        - count: 1
+
+
+
+
+
+
+
